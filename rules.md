@@ -59,6 +59,7 @@ You are only allowed to self promo in #chat if:
 - You are currently streaming
 - You are sharing a video you made
 - You are not begging for followers or subscribers
+You are also allowed to promote servers and things in your bio, but self-promoting in people's DMs is not okay. If you have a malicious link in your bio we will jail you.
 
    `4a. You cannot post Discord server invite links in the server.`
    
