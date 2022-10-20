@@ -223,7 +223,7 @@ Verbal abuse:
    - Members who have the @Cats role: 1d mute
  
  
-    `*Hurtful, targeted or continued teasing and verbal abuse:`
+  `*Hurtful, targeted or continued teasing and verbal abuse:`
     
     
    - Instant ban, appeal will not be available
