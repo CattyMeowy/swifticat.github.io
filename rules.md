@@ -60,3 +60,33 @@ You are only allowed to self promo in #chat if:
 - You are sharing a video you made
 - You are not begging for followers or subscribers
 
+   `4a. You cannot post Discord server invite links in the server.`
+   
+We understand you would like to grow your server and invite more people, but this server is not the place to send invite links.
+
+   `4b. You can only post links from YouTube, Twitch, Vimeo, Tracker.GG, Tenor, Discord Media and gaming platforms such as Xbox and PS Network.`
+   
+Any other links will be deleted.
+
+   `4c. Posting links from TikTok, Reddit or Steam will result in a kick.`
+
+Due to the controversial nature of these sites, we will immediately kick people sending links related to these platforms.
+
+# - Other rules -
+
+**5. Mods and admins reserve the right to kick/ban you if they feel you are doing something wrong.**
+
+If you get banned by an admin, you will not be able to rejoin the server and you won't be able to appeal (unless the ban was in error or the admin was abusing their power in which they will be banned too).
+
+   `5a. Do not ping members of the server unless they are actively engaged in the chat.`
+
+Please do not annoy our members who have nothing to do with the current state of the chat.
+
+**6. Profanity is allowed in your bio as long as your custom status doesn't contain any.**
+   
+Spotify statuses are excluded. People found with an offensive custom status will be jailed until they change it.
+
+
+
+   
+
