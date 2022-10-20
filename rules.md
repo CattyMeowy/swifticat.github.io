@@ -214,7 +214,7 @@ Suspicious wording or grammar:
 Verbal abuse:
 
 
-          `*Harassment or light unwanted teasing`
+   `*Harassment or light unwanted teasing`
           
           
    - Members who had joined the server in the last 14 days: Pardon and a warning
@@ -238,7 +238,7 @@ Threats:
    - No penalty unless it feels too threatening, then 30m mute
          
          
-  `*Death threats or swatting and doxxing threats`
+ `*Death threats or swatting and doxxing threats`
          
          
   - Instant kick
