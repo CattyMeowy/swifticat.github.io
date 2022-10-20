@@ -7,11 +7,11 @@ You're probably pretty pumped about being here. Before you start chatting though
 
 Use this command in any channel to be DMed a list of unacceptable words: !bannedwords
 
-   `1.a Do not bait, even if its a joke.`
+  `1.a Do not bait, even if its a joke.`
     
 Baiting is when people type a usually non-offensive word that contains letters at the beginning/end from known offensive words, then mark the other contents of the word other than the beginning/end as a spoiler, example: if tomato was a bad word, to||pa||to
 
-    `1.b Do not try loopholes.`
+  `1.b Do not try loopholes.`
     
 Loopholing is when people try to bypass the rules by typing different variations of bad words, example: if potato was a bad word, potayto
 
