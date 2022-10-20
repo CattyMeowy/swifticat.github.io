@@ -7,11 +7,11 @@ You're probably pretty pumped about being here. Before you start chatting though
 
 Use this command in any channel to be DMed a list of unacceptable words: !bannedwords
 
-  `1.a Do not bait, even if its a joke.`
+  `1a. Do not bait, even if its a joke.`
     
 Baiting is when people type a usually non-offensive word that contains letters at the beginning/end from known offensive words, then mark the other contents of the word other than the beginning/end as a spoiler, example: if tomato was a bad word, to||pa||to
 
-  `1.b Do not try loopholes.`
+  `1b. Do not try loopholes.`
     
 Loopholing is when people try to bypass the rules by typing different variations of bad words, example: if potato was a bad word, potayto
 
@@ -68,15 +68,15 @@ We understand you would like to grow your server and invite more people, but thi
    
 Any other links will be deleted.
 
-   `4c. Posting links from TikTok, Reddit or Steam will result in a kick.`
+   `4c. Posting links from TikTok will result in a kick.`
 
-Due to the controversial nature of these sites, we will immediately kick people sending links related to these platforms.
+Due to the controversial nature of TikTok, we will immediately kick people sending links related to the platform.
 
 # - Other rules -
 
 **5. Mods and admins reserve the right to kick/ban you if they feel you are doing something wrong.**
 
-If you get banned by an admin, you will not be able to rejoin the server and you won't be able to appeal (unless the ban was in error or the admin was abusing their power in which they will be banned too).
+If the mod or admin was abusing their power they will be immediately demoted and/or banned/kicked.
 
    `5a. Do not ping members of the server unless they are actively engaged in the chat.`
 
@@ -86,6 +86,16 @@ Please do not annoy our members who have nothing to do with the current state of
    
 Spotify statuses are excluded. People found with an offensive custom status will be jailed until they change it.
 
+**Last rule: Have fun!**
+
+If you have any suggestions for the server make sure you tell me in the #suggestions channel :)
+
+
+
+
+# Appeal a ban
+
+Got banned and want to appeal? 
 
 
    
