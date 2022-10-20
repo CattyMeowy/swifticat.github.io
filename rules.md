@@ -95,7 +95,7 @@ If you have any suggestions for the server make sure you tell me in the #suggest
 
 # Appeal a ban
 
-Got banned and want to appeal? 
+Got banned and want to appeal? Fill in this form: https://forms.gle/8kzo9D3w9vNH3pCQ6
 
 
    
