@@ -21,7 +21,7 @@ Loopholing is when people try to bypass the rules by typing different variations
 
 Some of our members are sensitive to these subjects. Please do not make it sound funny unless there is reasonable context behind the joke.
 
-   `2a. Joking about people in the server lightheartedly or people IRL (including me) is allowed if it is friendly, consentual and not like teasing.`
+   `2a. Joking about people in the server lightheartedly or people IRL (including me) is allowed if it is friendly, not very offensive and not like teasing.`
     
 Saying mean or malicious messages behind one's back is enough to get you banned.
 
