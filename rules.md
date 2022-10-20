@@ -96,60 +96,166 @@ If you have any suggestions for the server make sure you tell me in the #suggest
 # - Penalties -
 Failure to comply with rules may result in a penalty. Here are a list of penalties and how they're obtained:
 
-- Profanity infractions -
+# - Profanity infractions -
+
+
 One or two uses of banned words:
-          - Member who has joined in the last 14 days: Pardon and a warning
-          - Member who has been in the server for more than 14 days: Jailban 7d
-          - Repeat offenses even after a jailban: Kick or ban depending on severity
-          - More offenses after kick and rejoin: Ban
-One use of a slur:
-          - Member who has been in the server regardless of length: Jailban 14d
-          - Repeat offenses even after a jailban: Ban
-Use of profane language in a bio or status:
-          - Member who had just joined the server: Warning, if they haven't changed their status or bio they will be jailbanned until then.
-          - Member who had changed it some time in the future: Jailban until change
-- Image infractions -
-Posting intense depictions of violence (e.g torture, kidnapping) but no blood or gore is present - Jailban 7d
-Posting gory images - Jailban 20d
-Posting NSFW art (non-pornographic but deemed NSFW, e.g suggestive language or revealing images) - Jailban 14d
-Posting NSFW art (pornographic) - Instant ban
-- Spam infractions -
-Spam pinging:
-          `*Moderator or Catty`
-          - Member who had joined the server in the last 7 days: Pardon and a warning
-          - Member who has been in the server for more than 7 days: Jailban 7d
-          `*Random people not participating in chat`
-          - Member who had joined the server in the last 7 days: Pardon and a warning
-          - Member who has been in the server for more than 7 days: Mute for 30 min
-Spamming words and etc outside of #spammmmmmmm:
-          - Member who had joined the server in the last 7 days: Pardon and a warning + purge
-          - Member who has been in the server for more than 7 days: Mute for 30 min
-Spamming links
-          `*Deceptive or phishing links`
-          - Instant ban, appeal available by contacting Catty
-          `*Other links other than allowed links (including non-partnered server invites) Mute 30 min`
+
+
+   - Member who has joined in the last 14 days: Pardon and a warning
           
+          
+   - Member who has been in the server for more than 14 days: Jailban 7d
+          
+          
+   - Repeat offenses even after a jailban: Kick or ban depending on severity
+          
+          
+   - More offenses after kick and rejoin: Ban
+          
+          
+One use of a slur:
+
+
+   - Member who has been in the server regardless of length: Jailban 14d
+          
+          
+   - Repeat offenses even after a jailban: Ban
+          
+          
+Use of profane language in a custom status:
+
+
+   - Member who had just joined the server: Warning, if they haven't changed their custom status they will be jailbanned until then.
+          
+          
+   - Member who had changed it some time in the future: Jailban until change
+          
+          
+# - Image infractions -
+
+
+Posting intense depictions of violence (e.g torture, kidnapping) but no blood or gore is present - Jailban 7d
+
+
+Posting gory images - Jailban 20d
+
+
+Posting NSFW art (non-pornographic but deemed NSFW, e.g suggestive language or revealing images) - Jailban 14d
+
+
+Posting NSFW art (pornographic) - Instant ban
+
+
+# - Spam infractions -
+
+
+Spam pinging:
+
+
+   `*Moderator or Catty`
+         
+         
+   - Member who had joined the server in the last 7 days: Pardon and a warning
+   
+   
+   - Member who has been in the server for more than 7 days: Jailban 7d
+   
+   
+   `*Random people not participating in chat`
+   
+   
+   - Member who had joined the server in the last 7 days: Pardon and a warning
+   
+   
+   - Member who has been in the server for more than 7 days: Mute for 30 min
+
+
+Spamming words and etc outside of #spammmmmmmm:
+          
+          
+   - Member who had joined the server in the last 7 days: Pardon and a warning + purge
+          
+          
+   - Member who has been in the server for more than 7 days: Mute for 30 min
+
+
+Spamming links
+          
+          
+   `*Deceptive or phishing links`
+   
+   
+   - Instant ban
+          
+          
+   `*Other links other than allowed links (including non-partnered server invites) Mute 30 min`
+          
+
+
 # - Common sense infractions -
+
+
 Suspicious wording or grammar:
-          - You will be interrogated to prove you are at least 13 years old to use Discord. We aren't voiceist but we might ask for your ID with personal info blurred out. We will only interrogate members who use very poor grammar and/or childish language.
+          
+          
+   - You will be interrogated to prove you are at least 13 years old to use Discord. We aren't voiceist but we might ask for your ID with personal info blurred out. We will only interrogate members who use very poor grammar and/or childish language.
+ 
+ 
  Anti-group speech:
-          - Members who had joined the server in the last 7 days: Jailban 1d
-          - Members who have been in the server for more than 7 days: Jailban 5d
+         
+           
+   - Members who had joined the server in the last 7 days: Jailban 1d
+
+
+   - Members who have been in the server for more than 7 days: Jailban 5d
+
+
 Verbal abuse:
+
+
           `*Harassment or light unwanted teasing`
-          - Members who had joined the server in the last 14 days: Pardon and a warning
-          - Members who have the @Cats role: 1d mute
-           `*Hurtful, targeted or continued teasing and verbal abuse:`
-          - Instant ban, appeal will not be available
+          
+          
+   - Members who had joined the server in the last 14 days: Pardon and a warning
+
+          
+   - Members who have the @Cats role: 1d mute
+ 
+ 
+    `*Hurtful, targeted or continued teasing and verbal abuse:`
+    
+    
+   - Instant ban, appeal will not be available
+
+         
 Threats:
-          `*Lighthearted threats that aren't serious in any way`
-          - No penalty unless it feels too threatening, then 30m mute
-          `*Death threats or swatting and doxxing threats`
-          - Instant kick
-          - Continued threats will result in a ban
+
+
+`*Lighthearted threats that aren't serious in any way`
+          
+          
+   - No penalty unless it feels too threatening, then 30m mute
+         
+         
+  `*Death threats or swatting and doxxing threats`
+         
+         
+  - Instant kick
+         
+         
+  - Continued threats will result in a ban
+
+
 - Other information -
-          - Constructive criticism for Catty and others is allowed as long as you don't have a hurtful intention.
-          - If you do swear a lot and you want to be in a VC with people you can join the Unfiltered VC. This VC lets you swear in it but be mindful of using slurs. 
+          
+          
+   - Constructive criticism for Catty and others is allowed as long as you don't have a hurtful intention.
+          
+          
+   - If you do swear a lot and you want to be in a VC with people you can join the Unfiltered VC. This VC lets you swear in it but be mindful of using slurs. 
+
+
 `*Jailbans are suspensions that don't let you access any channels until the ban period is over but you will still be in the server. If you leave the server during a jailban you will be instantly banned.`
 
 
