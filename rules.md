@@ -51,4 +51,8 @@ Remember - its ok to be different!
    
 Sure, they could sound wrong to you but it really isn't. Everyone deserves to be respected and feel welcome. No one should shame or feel shamed of someone's/your hobbies and interests. 
 
- 
+# - Promo -
+
+**4. Self promotion is allowed if you are streaming.**
+
+You are allowed to post your channel link in #chat if you are currently streaming
