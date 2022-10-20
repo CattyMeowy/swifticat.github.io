@@ -7,11 +7,11 @@ You're probably pretty pumped about being here. Before you start chatting though
 
 Use this command in any channel to be DMed a list of unacceptable words: !bannedwords
 
-    **1.a Do not bait, even if its a joke.**
+   `1.a Do not bait, even if its a joke.`
     
 Baiting is when people type a usually non-offensive word that contains letters at the beginning/end from known offensive words, then mark the other contents of the word other than the beginning/end as a spoiler, example: if tomato was a bad word, to||pa||to
 
-    **1.b Do not try loopholes.**
+    `1.b Do not try loopholes.`
     
 Loopholing is when people try to bypass the rules by typing different variations of bad words, example: if potato was a bad word, potayto
 
@@ -21,15 +21,15 @@ Loopholing is when people try to bypass the rules by typing different variations
 
 Some of our members are sensitive to these subjects. Please do not make it sound funny unless there is reasonable context behind the joke.
 
-    **2a. Joking about people in the server lightheartedly or people IRL (including me) is allowed if it is friendly and not like teasing.**
+    `2a. Joking about people in the server lightheartedly or people IRL (including me) is allowed if it is friendly and not like teasing.`
     
 Saying mean or malicious messages behind one's back is enough to get you banned.
 
-    **2b. Do not spam or make text walls.**
+    `2b. Do not spam or make text walls.`
     
 Copypastas are allowed as long as they do not violate any of the rules and they are not too long.
 
-    **2c. Do not get into heated discussions and come to a conclusion when necessary.**
+    `2c. Do not get into heated discussions and come to a conclusion when necessary.`
     
 Light debates are OK, but getting into a full-on argument with another member is unacceptable and can make people feel uncomfortable.
 
@@ -39,7 +39,7 @@ Light debates are OK, but getting into a full-on argument with another member is
 
 It's OK to have different opinions and to have different likes and dislikes. Most importantly, no matter what race you are, your sexuality or what cultures you are in, we will accept you for who you are.
 
-   **3a. Do not make jokes about sexuality and/or race.**
+   `3a. Do not make jokes about sexuality and/or race.`
    
 This includes making jokes about gay people.
 
