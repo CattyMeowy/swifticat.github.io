@@ -126,7 +126,7 @@ One use of a slur:
 Use of profane language in a custom status:
 
 
-   - Member who had just joined the server: Warning, if they haven't changed their custom status they will be jailbanned until then.
+   - Member who had just joined the server: If they don't change their custom status they will be jailbanned until then.
           
           
    - Member who had changed it some time in the future: Jailban until change
