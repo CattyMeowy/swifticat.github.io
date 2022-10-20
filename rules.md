@@ -21,15 +21,15 @@ Loopholing is when people try to bypass the rules by typing different variations
 
 Some of our members are sensitive to these subjects. Please do not make it sound funny unless there is reasonable context behind the joke.
 
-    `2a. Joking about people in the server lightheartedly or people IRL (including me) is allowed if it is friendly and not like teasing.`
+   `2a. Joking about people in the server lightheartedly or people IRL (including me) is allowed if it is friendly and not like teasing.`
     
 Saying mean or malicious messages behind one's back is enough to get you banned.
 
-    `2b. Do not spam or make text walls.`
+   `2b. Do not spam or make text walls.`
     
 Copypastas are allowed as long as they do not violate any of the rules and they are not too long.
 
-    `2c. Do not get into heated discussions and come to a conclusion when necessary.`
+   `2c. Do not get into heated discussions and come to a conclusion when necessary.`
     
 Light debates are OK, but getting into a full-on argument with another member is unacceptable and can make people feel uncomfortable.
 
@@ -43,11 +43,11 @@ It's OK to have different opinions and to have different likes and dislikes. Mos
    
 This includes making jokes about gay people.
 
-   **3b. If someone has different likes and dislikes and you feel like you want to contradict them, prevent yourself from doing so.**
+   `3b. If someone has different likes and dislikes and you feel like you want to contradict them, prevent yourself from doing so.`
    
 Remember - its ok to be different!
 
-   **3c. Do not make fun of furries, weebs, other fandoms and people who identify as LGBTQ+.**
+   `3c. Do not make fun of furries, weebs, other fandoms and people who identify as LGBTQ+.`
    
 Sure, they could sound wrong to you but it really isn't. Everyone deserves to be respected and feel welcome. No one should shame or feel shamed of someone's/your hobbies and interests. 
 
