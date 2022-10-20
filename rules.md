@@ -53,6 +53,10 @@ Sure, they could sound wrong to you but it really isn't. Everyone deserves to be
 
 # - Promo -
 
-**4. Self promotion is allowed if you are streaming.**
+**4. Self promotion is allowed, but there are conditions.**
 
-You are allowed to post your channel link in #chat if you are currently streaming
+You are only allowed to self promo in #chat if:
+- You are currently streaming
+- You are sharing a video you made
+- You are not begging for followers or subscribers
+
