@@ -9,7 +9,7 @@ Use this command in any channel to be DMed a list of unacceptable words: !banned
 
   `1a. Do not bait, even if its a joke.`
     
-Baiting is when people type a usually non-offensive word that contains letters at the beginning/end from known offensive words, then mark the other contents of the word other than the beginning/end as a spoiler, example: if tomato was a bad word, t/opat/o
+Baiting is when people type a usually non-offensive word that contains letters at the beginning/end from known offensive words, then mark the other contents of the word other than the beginning/end as a spoiler, example: if tomato was a bad word, t//opat//o
 
   `1b. Do not try loopholes.`
     
