@@ -17,7 +17,7 @@ Loopholing is when people try to bypass the rules by typing different variations
 
 # - Common sense -
 
-**2. Do not make jokes about controversial subjects, sexual content, political figures and dark humor unless it's justified by context.**
+**2. Do not make jokes about controversial subjects (e.g. murders referenced in graphic detail, suicides, real world disasters, disturbing events), sexual content, political figures and dark humor unless it's justified by reasonable context.**
 
 Some of our members are sensitive to these subjects. Please do not make it sound funny unless there is reasonable context behind the joke.
 
