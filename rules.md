@@ -15,6 +15,15 @@ Baiting is when people type a usually non-offensive word that contains letters a
     
 Loopholing is when people try to bypass the rules by typing different variations of bad words, example: if potato was a bad word, potayto
 
+<details open>
+<summary>For example, you may not:</summary>
+<br>
+* Use any derogatory slurs (including ethical, racial or disability slurs)
+* Use profanity to insult people
+* Use profanity over the PG-13 level (F words are not allowed)
+* Use banned profanity with loophole tricks (e.g. spelling it a different way or using a different font)
+</details>
+
 # - Common sense -
 
 **2. Do not make jokes about controversial subjects (e.g. murders referenced in graphic detail, suicides, real world disasters, disturbing events), sexual content, political figures and dark humor unless it's justified by reasonable context.**
@@ -32,6 +41,13 @@ Copypastas are allowed as long as they do not violate any of the rules and they 
    `2c. Do not get into heated discussions and come to a conclusion when necessary.`
     
 Light debates are OK, but getting into a full-on argument with another member is unacceptable and can make people feel uncomfortable.
+<details open>
+<summary>For example, you may not:</summary>
+<br>
+* Talk about serious topics in detail
+* Make fun of controversial events such as 9/11
+* Talk about serious topics in general if there is no context behind it (e.g. explaining a serious topic is fine if it isn't detailed, referencing or relating a serious topic to a meme or something funny isn't)
+</details>
 
 # - Identity -
 
@@ -47,9 +63,17 @@ This includes making jokes about gay people.
    
 Remember - its ok to be different!
 
-   `3c. Do not make fun of furries, weebs, other fandoms and people who identify as LGBTQ+.`
+   `3c. Do not make fun of people affiliated with different cultures.`
    
 Sure, they could sound wrong to you but it really isn't. Everyone deserves to be respected and feel welcome. No one should shame or feel shamed of someone's/your hobbies and interests. 
+
+<details open>
+<summary>For example, you may not:</summary>
+<br>
+* Post antisocial messages that are likely to offend people
+* Post anti-furry, anti-weeb, anti-LGBTQ+ or anti-culture messages
+* Post messages deemed as morally wrong (e.g. pedophile jokes, satanic group talk)
+</details>
 
 # - Promo -
 
@@ -72,8 +96,15 @@ Any other links will be deleted.
    `4c. Posting links from TikTok will result in a kick.`
 
 Due to the controversial nature of TikTok, we will immediately kick people sending links related to the platform.
+<details open>
+<summary>For example, you may not:</summary>
+<br>
+* Promote your content aggressively (e.g. asking people to like and subscribe and spamming your content across different channels)
+* Promote Discord servers in voice channels
+* Promote your TikTok channel with links instead of videos
+</details>
 
-# - Other rules -
+# - Privacy and other rules -
 
 **5. Mods and admins reserve the right to kick/ban you if they feel you are doing something wrong.**
 
@@ -83,7 +114,22 @@ If the mod or admin was abusing their power they will be immediately demoted and
 
 Please do not annoy our members who have nothing to do with the current state of the chat.
 
-**6. Profanity is allowed in your bio as long as your custom status doesn't contain any.**
+**6. Please respect out members' privacy.**
+
+Please don't leak information or dox members in our server.
+
+  `6a. Don't negatively comment on peoples' statuses.`
+  
+
+<details open>
+<summary>For example, you may not:</summary>
+<br>
+* Attempt to ping @everyone or @here in the server
+* Use ghost ping exploits
+* Leak personal information such as IP addresses, emails or names
+</details>
+
+**7. Profanity is allowed in your bio as long as your custom status doesn't contain any.**
    
 Spotify statuses are excluded. People found with an offensive custom status will be jailed until they change it.
 
@@ -92,6 +138,51 @@ Spotify statuses are excluded. People found with an offensive custom status will
 If you have any suggestions for the server make sure you tell me in the #suggestions channel :)
 
 
+# - Media -
+
+**8. Do not post sexually suggestive or explicit media.**
+
+Media designed to sexually arouse the viewer is not allowed here.
+
+  `8a. Media containing naturalistic nudity is allowed within an educational context.`
+
+Media that is non-sexual but contains nudity is fine if it has context (e.g. body painting, traditional native cultures).
+
+  `8b. Artistic nudity is allowed if it is historical only.`
+  
+Images of naked statues or historical artworks are allowed. Users are not allowed to post OC content containing nudity.
+
+**9. Do not post extremely violent content.**
+
+Please don't post real life death or game clips focused on blood or gore.
+
+  `9a. Do not post media from a game or a movie that is rated R18+ or higher.`
+
+You may check content ratings at https://classification.gov.au. Despite what country you live in, this Discord server is Australian, so the Australian rating system is used.
+
+  `9b. Do not post media from a game or a movie that is banned from Australia.`
+  
+If you feel what you're about to post may be controversial, check at https://classification.gov.au and check the "Include adult and Refused Classification material" box. If the content you would like to post is rated X18+ or RC, please do not post it.
+
+**10. Please don't loophole profanity using media clips.**
+
+Attempting to post clips with F word+ profanity may result in a jail.
+
+  `10a. General profanity from games are excluded.`
+  
+Quips and voice lines containing F word+ profanity are allowed if it is during gameplay and not during a cutscene.
+
+**11. Don't post media with illegal substance depictions unless used in a reasonable context.**
+
+Title is self explanatory; just generally posting illegal substances is not allowed unless you have context behind it. Methods on how to use or make illegal substances are not allowed, even if they are fake.
+
+  `11a. Drug depictions from games are excluded.`
+  
+Games depicting drugs or drug references without actual drug use is allowed. If a game contains hard drug use, please do not post media related to it.
+
+**12. Depictions of gambling are not allowed unless there is reasonable context.**
+
+Please do not post media containing gambling without context.
 
 # - Penalties -
 Failure to comply with rules may result in a penalty. Here are a list of penalties and how they're obtained:
@@ -117,7 +208,7 @@ One or two uses of banned words:
 One use of a slur:
 
 
-   - Member who has been in the server regardless of length: Jailban 14d
+   - Member who has been in the server regardless of length: Jailban 7d
           
           
    - Repeat offenses even after a jailban: Ban
@@ -134,17 +225,25 @@ Use of profane language in a custom status:
           
 # - Image infractions -
 
-
-Posting intense depictions of violence (e.g torture, kidnapping) but no blood or gore is present - Jailban 7d
-
-
-Posting gory images - Jailban 20d
+All image infractions will result in loss of image perms.
 
 
-Posting NSFW art (non-pornographic but deemed NSFW, e.g suggestive language or revealing images) - Jailban 14d
+Posting intense depictions of violence (e.g torture, kidnapping) but no blood or gore is present: Jailban 7d
 
 
-Posting NSFW art (pornographic) - Instant ban
+Posting gore-focused media from games or movies: Jailban 14d
+
+
+Posting real-life gore or death: Ban
+
+
+Posting NSFW art (non-pornographic but deemed NSFW, e.g suggestive language or revealing images): Jailban 7d
+
+
+Posting NSFW art (pornographic): Instant ban
+
+
+Posting nude media without historical or natural context: Jailban 14d
 
 
 # - Spam infractions -
@@ -186,7 +285,8 @@ Spamming links
    `*Deceptive or phishing links`
    
    
-   - Instant ban
+   - Kick
+
           
           
    `*Other links other than allowed links (including non-partnered server invites) Mute 30 min`
