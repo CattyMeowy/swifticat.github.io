@@ -18,13 +18,13 @@ Loopholing is when people try to bypass the rules by typing different variations
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-*  Use any derogatory slurs (including ethical, racial or disability slurs)
+- Use any derogatory slurs (including ethical, racial or disability slurs)
   
-*  Use profanity to insult people
+- Use profanity to insult people
   
-*  Use profanity over the PG-13 level (F words are not allowed)
+- Use profanity over the PG-13 level (F words are not allowed)
   
-*  Use banned profanity with loophole tricks (e.g. spelling it a different way or using a different font)
+- Use banned profanity with loophole tricks (e.g. spelling it a different way or using a different font)
   
 </details>
 
@@ -48,11 +48,11 @@ Light debates are OK, but getting into a full-on argument with another member is
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-*  Talk about serious topics in detail
+-  Talk about serious topics in detail
   
-*  Make fun of controversial events such as 9/11
+-  Make fun of controversial events such as 9/11
   
-*  Talk about serious topics in general if there is no context behind it (e.g. explaining a serious topic is fine if it isn't detailed, referencing or relating a serious topic to a meme or something funny isn't)
+-  Talk about serious topics in general if there is no context behind it (e.g. explaining a serious topic is fine if it isn't detailed, referencing or relating a serious topic to a meme or something funny isn't)
   
 </details>
 
@@ -77,11 +77,11 @@ Sure, they could sound wrong to you but it really isn't. Everyone deserves to be
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-*  Post antisocial messages that are likely to offend people
+-  Post antisocial messages that are likely to offend people
   
-*  Post anti-furry, anti-weeb, anti-LGBTQ+ or anti-culture messages
+-  Post anti-furry, anti-weeb, anti-LGBTQ+ or anti-culture messages
   
-*  Post messages deemed as morally wrong (e.g. pedophile jokes, satanic group talk)
+-  Post messages deemed as morally wrong (e.g. pedophile jokes, satanic group talk)
   
 </details>
 
@@ -109,11 +109,11 @@ Due to the controversial nature of TikTok, we will immediately kick people sendi
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-*  Promote your content aggressively (e.g. asking people to like and subscribe and spamming your content across different channels)
+-  Promote your content aggressively (e.g. asking people to like and subscribe and spamming your content across different channels)
   
-*  Promote Discord servers in voice channels
+-  Promote Discord servers in voice channels
   
-*  Promote your TikTok channel with links instead of videos
+-  Promote your TikTok channel with links instead of videos
   
 </details>
 
@@ -137,11 +137,11 @@ Please don't leak information or dox members in our server.
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-*  Attempt to ping @everyone or @here in the server
+-  Attempt to ping @everyone or @here in the server
   
-*  Use ghost ping exploits
+-  Use ghost ping exploits
   
-*  Leak personal information such as IP addresses, emails or names
+-  Leak personal information such as IP addresses, emails or names
   
 </details>
 
@@ -200,11 +200,11 @@ Please do not post media containing gambling without context.
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-*  Share a video about a game gore demonstration
+-  Share a video about a game gore demonstration
   
-*  Post media or art containing suggestive material
+-  Post media or art containing suggestive material
   
-*  Post a video containing extended or clear sequences of F word+ profanity
+-  Post a video containing extended or clear sequences of F word+ profanity
   
 </details>
 
