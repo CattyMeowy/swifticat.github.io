@@ -18,10 +18,14 @@ Loopholing is when people try to bypass the rules by typing different variations
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-* Use any derogatory slurs (including ethical, racial or disability slurs)
-* Use profanity to insult people
-* Use profanity over the PG-13 level (F words are not allowed)
-* Use banned profanity with loophole tricks (e.g. spelling it a different way or using a different font)
+*  Use any derogatory slurs (including ethical, racial or disability slurs)
+  
+*  Use profanity to insult people
+  
+*  Use profanity over the PG-13 level (F words are not allowed)
+  
+*  Use banned profanity with loophole tricks (e.g. spelling it a different way or using a different font)
+  
 </details>
 
 # - Common sense -
@@ -44,9 +48,12 @@ Light debates are OK, but getting into a full-on argument with another member is
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-* Talk about serious topics in detail
-* Make fun of controversial events such as 9/11
-* Talk about serious topics in general if there is no context behind it (e.g. explaining a serious topic is fine if it isn't detailed, referencing or relating a serious topic to a meme or something funny isn't)
+*  Talk about serious topics in detail
+  
+*  Make fun of controversial events such as 9/11
+  
+*  Talk about serious topics in general if there is no context behind it (e.g. explaining a serious topic is fine if it isn't detailed, referencing or relating a serious topic to a meme or something funny isn't)
+  
 </details>
 
 # - Identity -
@@ -70,9 +77,12 @@ Sure, they could sound wrong to you but it really isn't. Everyone deserves to be
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-* Post antisocial messages that are likely to offend people
-* Post anti-furry, anti-weeb, anti-LGBTQ+ or anti-culture messages
-* Post messages deemed as morally wrong (e.g. pedophile jokes, satanic group talk)
+*  Post antisocial messages that are likely to offend people
+  
+*  Post anti-furry, anti-weeb, anti-LGBTQ+ or anti-culture messages
+  
+*  Post messages deemed as morally wrong (e.g. pedophile jokes, satanic group talk)
+  
 </details>
 
 # - Promo -
@@ -99,9 +109,12 @@ Due to the controversial nature of TikTok, we will immediately kick people sendi
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-* Promote your content aggressively (e.g. asking people to like and subscribe and spamming your content across different channels)
-* Promote Discord servers in voice channels
-* Promote your TikTok channel with links instead of videos
+*  Promote your content aggressively (e.g. asking people to like and subscribe and spamming your content across different channels)
+  
+*  Promote Discord servers in voice channels
+  
+*  Promote your TikTok channel with links instead of videos
+  
 </details>
 
 # - Privacy and other rules -
@@ -124,18 +137,18 @@ Please don't leak information or dox members in our server.
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-* Attempt to ping @everyone or @here in the server
-* Use ghost ping exploits
-* Leak personal information such as IP addresses, emails or names
+*  Attempt to ping @everyone or @here in the server
+  
+*  Use ghost ping exploits
+  
+*  Leak personal information such as IP addresses, emails or names
+  
 </details>
 
 **7. Profanity is allowed in your bio as long as your custom status doesn't contain any.**
    
 Spotify statuses are excluded. People found with an offensive custom status will be jailed until they change it.
 
-**Last rule: Have fun!**
-
-If you have any suggestions for the server make sure you tell me in the #suggestions channel :)
 
 
 # - Media -
@@ -183,6 +196,21 @@ Games depicting drugs or drug references without actual drug use is allowed. If 
 **12. Depictions of gambling are not allowed unless there is reasonable context.**
 
 Please do not post media containing gambling without context.
+
+<details open>
+<summary>For example, you may not:</summary>
+<br>
+*  Share a video about a game gore demonstration
+  
+*  Post media or art containing suggestive material
+  
+*  Post a video containing extended or clear sequences of F word+ profanity
+  
+</details>
+
+**Last rule: Have fun!**
+
+If you have any suggestions for the server make sure you tell me in the #suggestions channel :)
 
 # - Penalties -
 Failure to comply with rules may result in a penalty. Here are a list of penalties and how they're obtained:
