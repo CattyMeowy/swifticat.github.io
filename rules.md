@@ -165,17 +165,30 @@ Media that is non-sexual but contains nudity is fine if it has context (e.g. bod
   
 Images of naked statues or historical artworks are allowed. Users are not allowed to post OC content containing nudity.
 
-**9. Do not post extremely violent content.**
+**9. Do not post extremely violent or otherwise objectionable content.**
 
 Please don't post real life death or game clips focused on blood or gore.
 
-  `9a. Do not post media from a game or a movie that is rated R18+ or higher.`
+  `9a. Do not post media from a game or a movie that is rated R18+ or higher (with some exceptions).`
 
-You may check content ratings at https://classification.gov.au. Despite what country you live in, this Discord server is Australian, so the Australian rating system is used.
+You may check content ratings at https://classification.gov.au. Despite what country you live in, this Discord server is Australian, so the Australian rating system is used. Here are games that are exceptions to this rule:
+
+
+ - GTA V (depictions of the strip club, cutscenes with swearing (background swearing is allowed) or drug use are not allowed)
+ - Mortal Kombat (since violence as a whole is unrealistic and exaggerated)
+ - Doom and Doom Eternal (since gore is briefly depicted and fades away)
+ - Call of Duty: WWII and Call of Duty: Black Ops III (BO3 robot death scene is not allowed)
+ - Anything that only has the consumer advice "References to sexual violence" or with a T rating in America
+ - Memes related to, but not containing gameplay from, R18+ games
+
 
   `9b. Do not post media from a game or a movie that is banned from Australia.`
   
 If you feel what you're about to post may be controversial, check at https://classification.gov.au and check the "Include adult and Refused Classification material" box. If the content you would like to post is rated X18+ or RC, please do not post it.
+
+  `9c. Do not post media from a game or a movie focusing on sexual material or sexualized nudity.`
+  
+Please do not post offensive sexual references or allusions and nudity without reasonable context.
 
 **10. Please don't loophole profanity using media clips.**
 
