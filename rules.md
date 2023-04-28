@@ -230,166 +230,27 @@ Please do not post media containing gambling without context.
 If you have any suggestions for the server make sure you tell me in the #suggestions channel :)
 
 # - Penalties -
-Failure to comply with rules may result in a penalty. Here are a list of penalties and how they're obtained:
+Failure to comply with rules may result in a penalty.
 
-# - Profanity infractions -
+# Mild infractions
+Examples: using banned profanity, violating a common sense rule, hate speech, promoting a server, posting untrimmed TikTok videos, pinging moderators/members without a reason, posting content that includes gambling, directly offending Catty unintentionally
 
+**First time:** Warning
+**Second time:** 1d jailban
+**Third time:** 3d jailban
+**Fourth time:** Kick
+**Fifth time:** Ban
 
-One or two uses of banned words:
+# Moderate infractions
+Examples: posting suggestive SFW artwork, aggressive hate speech, posting an R18+ clip, posting sexual or extremely violent content from a game, posting disturbing horror content
 
+**First time:** Warning
+**Second time:** 3d jailban
+**Third time:** Kick
+**Fourth time:** Ban
 
-   - Member who has joined in the last 14 days: Pardon and a warning
-          
-          
-   - Member who has been in the server for more than 14 days: Jailban 7d
-          
-          
-   - Repeat offenses even after a jailban: Kick or ban depending on severity
-          
-          
-   - More offenses after kick and rejoin: Ban
-          
-          
-One use of a slur:
-
-
-   - Member who has been in the server regardless of length: Jailban 7d
-          
-          
-   - Repeat offenses even after a jailban: Ban
-          
-          
-Use of profane language in a custom status:
-
-
-   - Member who had just joined the server: If they don't change their custom status they will be jailbanned until then.
-          
-          
-   - Member who had changed it some time in the future: Jailban until change
-          
-          
-# - Image infractions -
-
-All image infractions will result in loss of image perms.
-
-
-Posting intense depictions of violence (e.g torture, kidnapping) but no blood or gore is present: Jailban 7d
-
-
-Posting gore-focused media from games or movies: Jailban 14d
-
-
-Posting real-life gore or death: Ban
-
-
-Posting NSFW art (non-pornographic but deemed NSFW, e.g suggestive language or revealing images): Jailban 7d
-
-
-Posting NSFW art (pornographic): Instant ban
-
-
-Posting nude media without historical or natural context: Jailban 14d
-
-
-# - Spam infractions -
-
-
-Spam pinging:
-
-
-   `*Moderator or Catty`
-         
-         
-   - Member who had joined the server in the last 7 days: Pardon and a warning
-   
-   
-   - Member who has been in the server for more than 7 days: Jailban 7d
-   
-   
-   `*Random people not participating in chat`
-   
-   
-   - Member who had joined the server in the last 7 days: Pardon and a warning
-   
-   
-   - Member who has been in the server for more than 7 days: Mute for 30 min
-
-
-Spamming words and etc outside of #spammmmmmmm:
-          
-          
-   - Member who had joined the server in the last 7 days: Pardon and a warning + purge
-          
-          
-   - Member who has been in the server for more than 7 days: Mute for 30 min
-
-
-Spamming links
-          
-          
-   `*Deceptive or phishing links`
-   
-   
-   - Kick
-
-          
-          
-   `*Other links other than allowed links (including non-partnered server invites) Mute 30 min`
-          
-
-
-# - Common sense infractions -
-
-
-Suspicious wording or grammar:
-          
-          
-   - You will be interrogated to prove you are at least 13 years old to use Discord. We aren't voiceist but we might ask for your ID with personal info blurred out. We will only interrogate members who use very poor grammar and/or childish language.
- 
- 
- Anti-group speech:
-         
-           
-   - Members who had joined the server in the last 7 days: Jailban 1d
-
-
-   - Members who have been in the server for more than 7 days: Jailban 5d
-
-
-Verbal abuse:
-
-
-   `*Harassment or light unwanted teasing`
-          
-          
-   - Members who had joined the server in the last 14 days: Pardon and a warning
-
-          
-   - Members who have the @Cats role: 1d mute
- 
- 
-  `*Hurtful, targeted or continued teasing and verbal abuse:`
-    
-    
-   - Instant ban, appeal will not be available
-
-         
-Threats:
-
-
-`*Lighthearted threats that aren't serious in any way`
-          
-          
-   - No penalty unless it feels too threatening, then 30m mute
-         
-         
- `*Death threats or swatting and doxxing threats`
-         
-         
-  - Instant kick
-         
-         
-  - Continued threats will result in a ban
+# Severe infractions
+Examples: posting actual or live-action media gore, posting NSFW art/content, advertising in DMs, severe language/hate speech, death threats, doxxing someone, discussing objectionable topics such as child pornography, NSFL subreddits, directly offending Catty intentionally
 
 
 - Other information -
@@ -397,12 +258,24 @@ Threats:
           
    - Constructive criticism for Catty and others is allowed as long as you don't have a hurtful intention.
           
-          
-   - If you do swear a lot and you want to be in a VC with people you can join the Unfiltered VC. This VC lets you swear in it but be mindful of using slurs. 
+   - If you do swear a lot and you want to be in a VC with people you can join the Unfiltered VC. This VC lets you use unrestricted profanity in it but be mindful of using slurs, violent and sexual language.
 
+- Saying things such as "I'm gonna kill you" or "You're so dead" must only be used as friendly banter in a gaming context; actual death threats are not allowed.
 
 `*Jailbans are suspensions that don't let you access any channels until the ban period is over but you will still be in the server. If you leave the server during a jailban you will be instantly banned.`
 
+# FAQ
+
+**I've seen someone violating the rules. All the moderators are offline. What do I do?**
+Members who have the Cats role have permission to access the *emergency-mod* channel, which temporarily grants them the Emergency Mod role, which gives them Moderator perms for an hour. This allows them to delete messages, disconnect members from voice channels and kick offenders. The Emergency Mod role can only be acquired once every year to prevent abuse. If you don't have the Cats role, ping a member with the Cats role and ask them to take action.
+
+**I want to post something, but I'm not sure if it doesn't violate the rules. What should I do?**
+DM Catty if he is available with what you'd like to post. You will not get banned for sending questionable content for evaluation; however, if the content is found to be severe, you may receive a short jailban.
+
+**There is a moderator abusing their powers. Catty is offline - what should I do?**
+While this is unlikely, this can still happen, especially with members who have activated Emergency Mod. Moderators cannot ban members, so if you get kicked, just rejoin. Catty will take action once he wakes up from his sleep.
+
+**If you have any questions, just ask Catty!**
 
 
 
@@ -411,5 +284,4 @@ Threats:
 Got banned and want to appeal? Fill in this form: https://forms.gle/8kzo9D3w9vNH3pCQ6
 
 
-   
 
