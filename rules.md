@@ -190,9 +190,9 @@ If you feel what you're about to post may be controversial, check at https://cla
   
 Please do not post offensive sexual references or allusions and nudity without reasonable context.
 
-  `9d. Do not post content intended to disturb or scare the viewer." Examples include, but are not limited to, jumpscares, disturbing horror imagery, body horror, creepypastas, etc.`
+  `9d. Do not post content intended to disturb or scare the viewer.`
   
-This is pretty self-explanatory; some members are sensitive to disturbing content. Basically don't post anything that would give the average 13 year old nightmares.
+This is pretty self-explanatory; some members are sensitive to disturbing content. Basically don't post anything that would give the average 13 year old nightmares.  Examples include, but are not limited to, jumpscares, disturbing horror imagery, body horror, creepypastas, etc.
 
 **10. Please don't loophole profanity using media clips.**
 
