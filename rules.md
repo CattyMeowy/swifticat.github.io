@@ -267,12 +267,15 @@ Examples: posting actual or live-action media gore, posting NSFW art/content, ad
 # FAQ
 
 **I've seen someone violating the rules. All the moderators are offline. What do I do?**
+
 Members who have the Cats role have permission to access the *emergency-mod* channel, which temporarily grants them the Emergency Mod role, which gives them Moderator perms for an hour. This allows them to delete messages, disconnect members from voice channels and kick offenders. The Emergency Mod role can only be acquired once every year to prevent abuse. If you don't have the Cats role, ping a member with the Cats role and ask them to take action.
 
 **I want to post something, but I'm not sure if it doesn't violate the rules. What should I do?**
+
 DM Catty if he is available with what you'd like to post. You will not get banned for sending questionable content for evaluation; however, if the content is found to be severe, you may receive a short jailban.
 
 **There is a moderator abusing their powers. Catty is offline - what should I do?**
+
 While this is unlikely, this can still happen, especially with members who have activated Emergency Mod. Moderators cannot ban members, so if you get kicked, just rejoin. Catty will take action once he wakes up from his sleep.
 
 **If you have any questions, just ask Catty!**
