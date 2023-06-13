@@ -18,7 +18,8 @@ Loopholing is when people try to bypass the rules by typing different variations
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-- Use any derogatory slurs (including ethical, racial or disability slurs)
+
+  - Use any derogatory slurs (including ethical, racial or disability slurs)
   
 - Use profanity to insult people
   
