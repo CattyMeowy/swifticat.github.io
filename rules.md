@@ -53,11 +53,11 @@ Light debates are OK, but getting into a full-on argument with another member is
 <summary>For example, you may not:</summary>
 <br>
 
-  * Talk about serious topics in detail
+  <li>Talk about serious topics in detail</li>
   
-  * Make fun of controversial events such as 9/11
+  <li>Make fun of controversial events such as 9/11</li>
   
-  * Talk about serious topics in general if there is no context behind it (e.g. explaining a serious topic is fine if it isn't detailed, referencing or relating a serious topic to a meme or something funny isn't)
+  <li>Talk about serious topics in general if there is no context behind it (e.g. explaining a serious topic is fine if it isn't detailed, referencing or relating a serious topic to a meme or something funny isn't)</li>
   
 </details>
 
@@ -82,11 +82,11 @@ Sure, they could sound wrong to you but it really isn't. Everyone deserves to be
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-  * Post antisocial messages that are likely to offend people
+  <li>Post antisocial messages that are likely to offend people</li>
   
-  * Post anti-furry, anti-weeb, anti-LGBTQ+ or anti-culture messages
+  <li>Post anti-furry, anti-weeb, anti-LGBTQ+ or anti-culture messages</li>
   
-  * Post messages deemed as morally wrong (e.g. pedophile jokes, satanic group talk)
+  <li>Post messages deemed as morally wrong (e.g. pedophile jokes)</li>
   
 </details>
 
@@ -114,11 +114,11 @@ Due to the controversial nature of TikTok, we will immediately kick people sendi
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-  * Promote your content aggressively (e.g. asking people to like and subscribe and spamming your content across different channels)
+  <li>Promote your content aggressively (e.g. asking people to like and subscribe and spamming your content across different channels)</li>
   
-  * Promote Discord servers in voice channels
+  <li>Promote Discord servers in voice channels</li>
   
-  * Promote your TikTok channel with links instead of videos
+  <li>Promote your TikTok channel with links instead of videos</li>
   
 </details>
 
@@ -142,11 +142,11 @@ Please don't leak information or dox members in our server.
 <details open>
 <summary>For example, you may not:</summary>
 <br>
-  * Attempt to ping @everyone or @here in the server
+  <li>Attempt to ping @everyone or @here in the server</li>
   
-  * Use ghost ping exploits
+  <li>Use ghost ping exploits</li>
   
-  * Leak personal information such as IP addresses, emails or names
+  <li>Leak personal information such as IP addresses, emails or names</li>
   
 </details>
 
@@ -222,11 +222,11 @@ Please do not post media containing gambling without context.
 <details open>
 <summary>For example, you may not:</summary>
 <br>
--  Share a video about a game gore demonstration
+  <li>Share a video about a game gore demonstration</li>
   
--  Post media or art containing suggestive material
+  <li>Post media or art containing suggestive material</li>
   
--  Post a video containing extended or clear sequences of F word+ profanity
+  <li>Post a video containing extended or clear sequences of F word+ profanity</li>
   
 </details>
 
