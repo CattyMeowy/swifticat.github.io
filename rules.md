@@ -95,9 +95,10 @@ Sure, they could sound wrong to you but it really isn't. Everyone deserves to be
 **4. Self promotion is allowed, but there are conditions.**
 
 You are only allowed to self promo in #chat if:
-- You are currently streaming
-- You are sharing a video you made
-- You are not begging for followers or subscribers
+<li>You are currently streaming</li>
+<li>You are sharing a video you made</li>
+<li>You are not begging for followers or subscribers</li>
+
 You are also allowed to promote servers and things in your bio, but self-promoting in people's DMs is not okay. If you have a malicious link in your bio we will jail you.
 
    `4a. You cannot post Discord server invite links in the server.`
@@ -179,12 +180,12 @@ Please don't post real life death or game clips focused on blood or gore.
 You may check content ratings at https://classification.gov.au. Despite what country you live in, this Discord server is Australian, so the Australian rating system is used. Here are games that are exceptions to this rule:
 
 
- - GTA V (depictions of the strip club, cutscenes with swearing (background swearing is allowed) or drug use are not allowed)
- - Mortal Kombat (since violence as a whole is unrealistic and exaggerated)
- - Doom and Doom Eternal (since gore is briefly depicted and fades away)
- - Call of Duty: WWII and Call of Duty: Black Ops III (BO3 robot death scene is not allowed)
- - Anything that only has the consumer advice "References to sexual violence" or with a T rating in America
- - Memes related to, but not containing gameplay from, R18+ games
+ <li>GTA V (depictions of the strip club, cutscenes with swearing (background swearing is allowed) or drug use are not allowed)</li>
+ <li>Mortal Kombat (since violence as a whole is unrealistic and exaggerated)</li>
+ <li>Doom and Doom Eternal (since gore is briefly depicted and fades away)</li>
+ <li>Call of Duty: WWII and Call of Duty: Black Ops III (BO3 robot death scene is not allowed)</li>
+ <li>Anything that only has the consumer advice "References to sexual violence" or with a T rating in America</li>
+ <li>Memes related to, but not containing gameplay from, R18+ games</li>
 
 
   `9b. Do not post media from a game or a movie that is banned from Australia.`
@@ -240,19 +241,19 @@ Failure to comply with rules may result in a penalty.
 # Mild infractions
 Examples: using banned profanity, violating a common sense rule, hate speech, promoting a server, posting untrimmed TikTok videos, pinging moderators/members without a reason, posting content that includes gambling, directly offending Catty unintentionally
 
-**First time:** Warning
-**Second time:** 1d jailban
-**Third time:** 3d jailban
-**Fourth time:** Kick
-**Fifth time:** Ban
+<li>**First time:** Warning</li>
+<li>**Second time:** 1d jailban</li>
+<li>**Third time:** 3d jailban</li>
+<li>**Fourth time:** Kick</li>
+<li>**Fifth time:** Ban</li>
 
 # Moderate infractions
 Examples: posting suggestive SFW artwork, aggressive hate speech, posting an R18+ clip, posting sexual or extremely violent content from a game, posting disturbing horror content
 
-**First time:** Warning
-**Second time:** 3d jailban
-**Third time:** Kick
-**Fourth time:** Ban
+<li>**First time:** Warning</li>
+<li>**Second time:** 3d jailban</li>
+<li>**Third time:** Kick</li>
+<li>**Fourth time:** Ban</li>
 
 # Severe infractions
 Examples: posting actual or live-action media gore, posting NSFW art/content, advertising in DMs, severe language/hate speech, death threats, doxxing someone, discussing objectionable topics such as child pornography, NSFL subreddits, directly offending Catty intentionally
