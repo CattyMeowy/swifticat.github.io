@@ -19,7 +19,7 @@ Loopholing is when people try to bypass the rules by typing different variations
 <summary>For example, you may not:</summary>
 
 
-  * Use any derogatory slurs (including ethical, racial or disability slurs)
+  * Use any derogatory slurs (including ethical, racial or disability slurs) unless in a strictly educational context (such as explaining how the word "retard" is offensive to minorities)
   
   
   * Use profanity to insult people
@@ -82,11 +82,11 @@ Sure, they could sound wrong to you but it really isn't. Everyone deserves to be
 <details open>
 <summary>For example, you may not:</summary>
 <br>
--  Post antisocial messages that are likely to offend people
+  * Post antisocial messages that are likely to offend people
   
--  Post anti-furry, anti-weeb, anti-LGBTQ+ or anti-culture messages
+  * Post anti-furry, anti-weeb, anti-LGBTQ+ or anti-culture messages
   
--  Post messages deemed as morally wrong (e.g. pedophile jokes, satanic group talk)
+  * Post messages deemed as morally wrong (e.g. pedophile jokes, satanic group talk)
   
 </details>
 
@@ -197,7 +197,7 @@ Please do not post offensive sexual references or allusions and nudity without r
 
   `9d. Do not post content intended to disturb or scare the viewer.`
   
-This is pretty self-explanatory; some members are sensitive to disturbing content. Basically don't post anything that would give the average 13 year old nightmares.  Examples include, but are not limited to, jumpscares, disturbing horror imagery, body horror, creepypastas, etc.
+This is pretty self-explanatory; some members are sensitive to disturbing content. Basically don't post anything that would give the average 13 year old nightmares. Examples include, but are not limited to, jumpscares, disturbing horror imagery, body horror, creepypastas, etc.
 
 **10. Please don't loophole profanity using media clips.**
 
