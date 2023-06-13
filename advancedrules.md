@@ -1,4 +1,4 @@
-- Advanced Rules -
+#Advanced Rules
 Profanity use rules:
 <li>Profanity must not be used vindictively or in a malicious way</li>
 <li>Profanity must not exceed the PG level based on the ACB rating system</li>
