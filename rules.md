@@ -19,16 +19,16 @@ Loopholing is when people try to bypass the rules by typing different variations
 <summary>For example, you may not:</summary>
 <br>
 
-  - Use any derogatory slurs (including ethical, racial or disability slurs)
+  * Use any derogatory slurs (including ethical, racial or disability slurs)
   
   
-  - Use profanity to insult people
+  * Use profanity to insult people
   
   
-  - Use profanity over the PG-13 level (F words are not allowed)
+  * Use profanity over the PG-13 level (F words are not allowed)
   
   
-  - Use banned profanity with loophole tricks (e.g. spelling it a different way or using a different font)
+  * Use banned profanity with loophole tricks (e.g. spelling it a different way or using a different font)
   
 </details>
 
