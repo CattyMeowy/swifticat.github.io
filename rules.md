@@ -17,7 +17,7 @@ Loopholing is when people try to bypass the rules by typing different variations
 
 <details open>
 <summary>For example, you may not:</summary>
-<br>
+
 
   * Use any derogatory slurs (including ethical, racial or disability slurs)
   
@@ -52,11 +52,12 @@ Light debates are OK, but getting into a full-on argument with another member is
 <details open>
 <summary>For example, you may not:</summary>
 <br>
--  Talk about serious topics in detail
+
+  * Talk about serious topics in detail
   
--  Make fun of controversial events such as 9/11
+  * Make fun of controversial events such as 9/11
   
--  Talk about serious topics in general if there is no context behind it (e.g. explaining a serious topic is fine if it isn't detailed, referencing or relating a serious topic to a meme or something funny isn't)
+  * Talk about serious topics in general if there is no context behind it (e.g. explaining a serious topic is fine if it isn't detailed, referencing or relating a serious topic to a meme or something funny isn't)
   
 </details>
 
@@ -113,11 +114,11 @@ Due to the controversial nature of TikTok, we will immediately kick people sendi
 <details open>
 <summary>For example, you may not:</summary>
 <br>
--  Promote your content aggressively (e.g. asking people to like and subscribe and spamming your content across different channels)
+  * Promote your content aggressively (e.g. asking people to like and subscribe and spamming your content across different channels)
   
--  Promote Discord servers in voice channels
+  * Promote Discord servers in voice channels
   
--  Promote your TikTok channel with links instead of videos
+  * Promote your TikTok channel with links instead of videos
   
 </details>
 
@@ -141,11 +142,11 @@ Please don't leak information or dox members in our server.
 <details open>
 <summary>For example, you may not:</summary>
 <br>
--  Attempt to ping @everyone or @here in the server
+  * Attempt to ping @everyone or @here in the server
   
--  Use ghost ping exploits
+  * Use ghost ping exploits
   
--  Leak personal information such as IP addresses, emails or names
+  * Leak personal information such as IP addresses, emails or names
   
 </details>
 
