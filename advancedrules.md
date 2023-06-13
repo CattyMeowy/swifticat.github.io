@@ -40,22 +40,12 @@ Media post rules:
 <li>Don't post media from movies, TV shows or video games that are rated R18+ in Australia</li>
 <li>Don't post media that breaks the profanity rules</li>
 <li>Gory images from movies or TV shows are generally not acceptable and video game clips must not focus on gore or injury detail</li>
-<li>The only video games with exceptions to the R18+ rule are:
-- GTA V
-- Doom Eternal
-- Call of Duty: WWII and Call of Duty: BO3
-- Any game rated T by the ESRB or only have "References to sexual violence" in the consumer advice
-- Memes about an R18+ game</li>
+<li>The only video games with exceptions to the R18+ rule are: GTA V, Doom Eternal, Call of Duty: WWII and Call of Duty: BO3, any game rated T by the ESRB or games that only have "References to sexual violence" in the consumer advice and memes about an R18+ game</li>
 <li>Clips of media rated RC (Refused Classification) by the ACB are strictly prohibited</li>
 <li>All members are encouraged to check https://classification.gov.au before they post clips of games or films</li>
 <li>Media containing sexualized imagery or sexual material is not allowed</li>
 <li>Artistic nudity is allowed if the art is historical</li>
-<li>Anime clips have extra rules:
-- They cannot be focused on a suggestive or sexual topic or scene
-- They cannot contain partial nudity
-- They cannot contain sexual language
-- The anime must not be in or related to the Ecchi genre
-- Gory anime clips are only likely to be acceptable if it isn't frequent or detailed</li>
+<li>Anime clips have extra rules: they cannot be focused on a suggestive or sexual topic or scene, they cannot contain partial nudity, they cannot contain sexual language, the anime must not be in or related to the Ecchi genre and gory anime clips are only likely to be acceptable if it isn't frequent or detailed</li>
 <li>All videos or clips originating from TikTok *must have their end watermark trimmed, no ifs, ands or buts* and must also follow the server rules</li>
 <li>All videos or clips originating from Reddit must not have been marked with an NSFW warning, must originate from a safe subreddit with over 1M members and must also follow the server rules</li>
 <li>All videos or clips originating from YouTube must not have been age restricted and must also follow the server rules</li>
