@@ -9,6 +9,7 @@
 - Posting content with real life violence is not permitted. Violence from live action movies cannot be explicitly violent or gory. Do not post anything with or referencing sexual violence.
 - Content with sexual humor must not be explicit. Do not post sex scenes or sexual sounds. Do not post sexually suggestive images intended to arouse the viewer.
 - Please do not post hate propaganda. Every member should be welcome here without any judgement.
+- Nudity is only allowed if it is part of a historical artwork or it is incidental animal nudity.
 - Don't post content that contains:
      - Detailed instruction or promotion in matters of crime or violence.
      - Depictions of rape.
