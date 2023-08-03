@@ -6,7 +6,7 @@
 - Sexual language should be kept to a minimum and be non-explicit in nature. Sexual language should only be used humorously and not to attempt to seduce or arouse members.
 - Do not reference disturbing or triggering material for the safety of other members.
 # Media
-- Posting real life violence is not permitted. Violence from live action movies cannot be explicitly violent or gory. Do not post anything with or referencing sexual violence.
+- Posting content with real life violence is not permitted. Violence from live action movies cannot be explicitly violent or gory. Do not post anything with or referencing sexual violence.
 - Content with sexual humor must not be explicit. Do not post sex scenes or sexual sounds. Do not post sexually suggestive images intended to arouse the viewer.
 - Please do not post hate propaganda. Every member should be welcome here without any judgement.
 - Don't post content that contains:
