@@ -22,6 +22,7 @@
      - Gratuitous, exploitative or offensive depictions of:
         - (i) activity accompanied by fetishes or practices that are offensive or abhorrent;
         - (ii) incest fantasies or other fantasies that are offensive or abhorrent
+
 # Legal
 - To comply with COPPA laws, you must be at least 13 years of age to use Discord in most countries. In some countries the age requirement is different. Please check if your country is listed at (https://support.discord.com/hc/en-us/articles/360040724612).
 - To be a member in this server, you are agreeing to the Discord Terms of Service, the Discord Privacy Policy and these server rules. Read more about Discord's terms of service at (https://discord.com/terms) and Discord's Privacy Policy at (https://discord.com/privacy).
