@@ -12,13 +12,13 @@
 - Please do not post hate propaganda. Every member should be welcome here without any judgement.
 - Nudity is only allowed if it is part of a historical artwork or it is incidental animal nudity.
 - Don't post content that contains:
-     - Detailed instruction or promotion in matters of crime or violence.
+     - Detailed instructions or promotion in matters of crime or violence.
      - Depictions of rape.
      - The promotion or provision of instruction in paedophile activity.
      - Descriptions or depictions of child sexual abuse or any other exploitative or offensive descriptions or depictions involving a person who is, or appears to be, a child under 18 years.
      - Gratuitous, exploitative or offensive depictions of:
-        - (i) violence with a very high degree of impact or which are excessively frequent, prolonged or detailed;
-        - (ii) cruelty or real violence which are very detailed or which have an extremely high impact;
+        - (i) violence with a very high degree of impact and is excessively frequent, prolonged or detailed;
+        - (ii) cruelty or real violence;
         - (iii) sexual violence
      - Depictions of practices such as bestiality
      - Gratuitous, exploitative or offensive depictions of:
