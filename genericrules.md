@@ -5,6 +5,7 @@
 - Language offensive to specific minorities should not be used in the presence of people who identify as said minority.
 - Sexual language should be kept to a minimum and be non-explicit in nature. Sexual language should only be used humorously and not to attempt to seduce or arouse members.
 - Do not reference disturbing or triggering material for the safety of other members.
+
 # Media
 - Posting content with real life violence is not permitted. Violence from live action movies cannot be explicitly violent or gory. Do not post anything with or referencing sexual violence.
 - Content with sexual humor must not be explicit. Do not post sex scenes or sexual sounds. Do not post sexually suggestive images intended to arouse the viewer.
@@ -28,5 +29,6 @@
 - To comply with COPPA laws, you must be at least 13 years of age to use Discord in most countries. In some countries the age requirement is different. Please check if your country is listed <a href="https://support.discord.com/hc/en-us/articles/360040724612">here</a>.
 - To be a member in this server, you are agreeing to the Discord Terms of Service, the Discord Privacy Policy and these server rules. Read more about Discord's terms of service at (<a href="https://discord.com/terms">discord.com/terms</a>) and Discord's Privacy Policy at (<a href="https://discord.com/privacy">discord.com/privacy</a>).
 - The rules are subject to change at any time, with or without warning. By joining this server you agree that you acknowledge this information.
+
 # Appeals
 To appeal your ban, please fill in this form <a href="https://forms.gle/xqJzAsh1cjG1z5CE6">here.</a>
